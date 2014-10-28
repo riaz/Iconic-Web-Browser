@@ -1,4 +1,5 @@
 import urllib
+
 class urlHandle:
     address = ''
     data = ''
